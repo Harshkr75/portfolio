@@ -267,7 +267,7 @@ import {
       source_code_link: "https://github.com/Harshkr75/3D-portfolio-project",
     },
     {
-      name: "Portfolio Project",
+      name: "AmazonWatchDog",
       description:
         "Introducing Amazon WatchDog, a smart price-tracking tool built with Next.js and TypeScript. It monitors Amazon prices in real time using Bright Data, with cron jobs for updates and MongoDB for tracking. Get instant alerts via EmailJS and never miss a deal. A seamless blend of automation and modern web development! ",
       tags: [
