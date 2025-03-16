@@ -29,6 +29,7 @@ import backendDev from "./company/backend.png";
 import todolist from "./todolist.png";
 import notescape from "./notescape.png";
 import portfolio from "./portfolio project.png";
+import AmazonWatchDog from "./AmazonWatchDog.png";
 
 import gmail from "./gmail.png";
 import instagram from "./instagram.png";
@@ -69,6 +70,7 @@ export {
   todolist,
   notescape,
   portfolio,
+  AmazonWatchDog,
   instagram,
   gmail,
   linkedin,

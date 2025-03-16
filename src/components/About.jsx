@@ -42,7 +42,7 @@ const About = () => {
    variants = {fadeIn("","",0.1,1)}
    className = "mt-4 text-secondary text-[20px] max-w-3xl leading-[30px]"
    >
-    Hey there! I'm harsh a 3rd year EC student from RV college of engineering , Bangalore. Apart from EC,  I'm very much interested in full-stack Web Development , I'm skilled in frontend frameworks like HTML , css , Javascript and React and backend technologies like Node js , express js , SQL  and mongoDB. I'm a quick learner and can collaborate closely with people to create efficient, scalable and user-friendly solutions that solve real-world problems.
+    Hey there! I'm harsh a Final year EC student from RV college of engineering , Bangalore. Apart from EC,  I'm very much interested in full-stack Web Development , I'm skilled in frontend frameworks like HTML , css , Javascript and React and backend technologies like Node js , express js , SQL  and mongoDB. I'm a quick learner and can collaborate closely with people to create efficient, scalable and user-friendly solutions that solve real-world problems.
 Let's work together to bring your ideas to life!
    </motion.p>
    <div className = " mt-20 mb-20 flex flex-wrap  gap-10" >

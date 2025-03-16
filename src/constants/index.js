@@ -22,6 +22,7 @@ import {
     todolist,
     notescape,
     portfolio,
+    AmazonWatchDog,
     threejs,
     web3,
     responsive,
@@ -247,7 +248,7 @@ import {
     {
       name: "Portfolio Project",
       description:
-        "Presenting my latest creation, a stunning 3D Animated Portfolio crafted with React.js, Tailwind CSS, and Three.js. This immersive portfolio project showcases the fusion of technology and design, featuring captivating animations powered by React libraries like Framer Motion. Explore a dynamic and visually engaging presentation of my work, seamlessly blending creativity with modern web development.",
+        "A stunning 3D Animated Portfolio crafted with React.js, Tailwind CSS, and Three.js. This immersive portfolio project showcases the fusion of technology and design, featuring captivating animations powered by React libraries like Framer Motion. Explore a dynamic and visually engaging presentation of my work, seamlessly blending creativity with modern web development.",
       tags: [
         {
           name: "reactJs",
@@ -263,7 +264,28 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/Harshkr75/noteScape",
+      source_code_link: "https://github.com/Harshkr75/3D-portfolio-project",
+    },
+    {
+      name: "Portfolio Project",
+      description:
+        "Introducing Amazon WatchDog, a smart price-tracking tool built with Next.js and TypeScript. It monitors Amazon prices in real time using Bright Data, with cron jobs for updates and MongoDB for tracking. Get instant alerts via EmailJS and never miss a deal. A seamless blend of automation and modern web development! ",
+      tags: [
+        {
+          name: "NextJs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: AmazonWatchDog,
+      source_code_link: "https://github.com/Harshkr75/AmazonWatchDog",
     },
     ,
   ];
