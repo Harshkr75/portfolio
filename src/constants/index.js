@@ -27,7 +27,8 @@ import {
     web3,
     responsive,
     dynamic,
-    intuitive
+    intuitive,
+    cpp
   } from "../assets";
   
   export const navLinks = [
@@ -171,6 +172,20 @@ import {
         "Learned how to create sign in with google using OAuth 2.0.",
         "Also created a project named Secrets implementing the OAuth 2.0 sign in feature.",
         "Then Started learning about the newage Web3 technology and created a few projects such as DBank which is a decentralised Finance application and a crypto token."
+      ],
+    },
+    {
+      title: "C++ and Data Structures and Algorithms",
+      company_name: "From Youtube, GFG and Leetcode",
+      icon: cpp,
+      iconBg: "#E6DEDD",
+      date: "December 2023 - November 2024",
+      points: [
+        "Started learning C++, focusing on object-oriented programming concepts like classes, inheritance, and polymorphism.",
+        "Studied fundamental data structures such as arrays, linked lists, stacks, queues, and hash maps, implementing them in C++.",
+        "Explored searching and sorting algorithms, including Binary Search, Quick Sort, Merge Sort, and their time complexities.",
+        "Dived deep into graph algorithms like BFS, DFS, Dijkstra’s, Floyd-Warshall, Prim’s, and Kruskal’s, understanding their applications.",
+        "Practiced solving problems on dynamic programming, greedy algorithms, and segment trees, refining problem-solving skills through platforms like LeetCode and Codeforces."
       ],
     },
   ];
